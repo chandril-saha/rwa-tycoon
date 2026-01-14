@@ -2,8 +2,6 @@
 
 **RWA Tycoon** is an educational Web3 simulation platform built on the **Mantle Network**. It gamifies the concept of Real World Assets (RWAs) to teach users about yield, risk, and asset management on-chain.
 
-![RWA Tycoon Banner](./public/icon.png)
-
 ## 🚀 Vision
 Tokenization of Real World Assets is the future of finance. However, the concepts of "Yield", "Liquidity", and "Regulatory Risk" can be daunting. **RWA Tycoon** simplifies this by putting you in the shoes of an asset manager. Mint properties, manage tenants, handle legal crises, and build your reputation on-chain.
 
@@ -71,7 +69,7 @@ Your **Tycoon Score** is dynamically calculated based on your portfolio's health
     ```
 
 4.  **Open in Browser:**
-    Navigate to `http://localhost:3000`.
+    Navigate to `https://rwa-tycoon.vercel.app/`.
 
 ## 📜 Smart Contracts
 
