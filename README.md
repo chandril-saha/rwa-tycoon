@@ -37,7 +37,7 @@ Your **Tycoon Score** is dynamically calculated based on your portfolio's health
 
 ## 📂 Project Structure
 
-- `/contracts`: Solidity smart contracts (`AssetNFT.sol`, `GameEngine.sol`).
+- `/contracts`: Solidity smart contracts (`AssetNFT.sol`, `GameEngine.sol`,`PlayerProfile.sol`).
 - `/app`: Next.js frontend application.
 - `/components`: Reusable UI components (Navbar, Wallet Connect).
 - `/public`: Static assets (Logos, Icons).
@@ -78,7 +78,8 @@ Deployed on **Mantle Sepolia Testnet**:
 | Contract | Address |
 | :--- | :--- |
 | **AssetNFT** | `0xf15EE2DadcEf457E6E2b69bb9582f8C43FC4680f` |
-| **GameEngine**| `0x56aADf614f1E1aa159336536137f10cC1d76E2A8` |
+| **GameEngine** | `0x56aADf614f1E1aa159336536137f10cC1d76E2A8` |
+| **PlayerProfile** | `0x910c3f0af9c52036c366458462d91a3a6742d34c` |
 
 ## 🏆 Hackathon Notes
 This project was built to demonstrate the power of Mantle's fast interaction speeds for gaming and simulation. By handling complex state changes (Freeze/Unfreeze) and dynamic NFT updates, we showcase how RWAs can be gamified to drive adoption.
