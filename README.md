@@ -48,28 +48,22 @@ Your **Tycoon Score** is dynamically calculated based on your portfolio's health
 - Node.js (v18+)
 - MetaMask (configured for Mantle Sepolia)
 
-### Installation
+### Deployment
 
-1.  **Clone the repository:**
+1.  **Clone the repository** (if you have Git):
     ```bash
     git clone https://github.com/your-username/rwa-tycoon.git
     cd rwa-tycoon
     ```
+    *(Or manually upload to GitHub if using the web interface)*
 
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    # or
-    yarn install
-    ```
+2.  **Deploy to Vercel:**
+    - Go to Vercel Dashboard -> Add New Project.
+    - Import your GitHub Repository.
+    - Click **Deploy**. (No environmental variables needed for this public testnet build).
 
-3.  **Run the application:**
-    ```bash
-    npm run dev
-    ```
-
-4.  **Open in Browser:**
-    Navigate to `https://rwa-tycoon.vercel.app/`.
+### Open in Browser:
+Navigate to `https://rwa-tycoon.vercel.app/`.
 
 ## 📜 Smart Contracts
 
@@ -81,8 +75,22 @@ Deployed on **Mantle Sepolia Testnet**:
 | **GameEngine** | `0x56aADf614f1E1aa159336536137f10cC1d76E2A8` |
 | **PlayerProfile** | `0x910c3f0af9c52036c366458462d91a3a6742d34c` |
 
-## 🏆 Hackathon Notes
-This project was built to demonstrate the power of Mantle's fast interaction speeds for gaming and simulation. By handling complex state changes (Freeze/Unfreeze) and dynamic NFT updates, we showcase how RWAs can be gamified to drive adoption.
+**View on:** https://sepolia.mantlescan.xyz/
+
+## ⚖️ Compliance Declaration
+**Status: Educational Simulation / Regulated Asset Theme**
+
+This project is submitted for the **Mantle Hackathon**. Please note:
+1.  **Simulation Only:** All "assets", "yields", and "funds" within this application are purely fictional and run on the **Mantle Sepolia Testnet**. No real financial value is at risk.
+2.  **Regulatory Theme:** The project thematically explores regulated assets (RWAs). However, the smart contracts are simplified for educational gamification and do not represent legally binding financial instruments or securities.
+3.  **No Token Sale:** There is no ICO, token sale, or real-money transaction involved.
+
+## 👥 Team
+
+| Role | Details | Contact Info |
+| :--- | :--- | :--- |
+| **Team Leader** | **Name:** Chandril Saha<br>**College:** Heritage Institute of Technology | 📧 chandrilsaha2.0@gmail.com<br>📱 +91 8777826807<br>🔗 https://www.linkedin.com/in/chandril-saha-583395320 |
+| **Member** | **Name:** Swastika Bhaumick<br>**College:** Sister Nivedita University | 📧 swastikabhaumick@gmail.com<br>📱 +91 8910900532<br>🔗 https://www.linkedin.com/in/swastika-bhaumick-9b234331a |
 
 ---
 *Built with ❤️ for the Mantle Hackathon*
