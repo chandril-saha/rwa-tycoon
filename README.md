@@ -62,7 +62,7 @@ Your **Tycoon Score** is dynamically calculated based on your portfolio's health
     - Import your GitHub Repository.
     - Click **Deploy**. (No environmental variables needed for this public testnet build).
 
-### Open in Browser:
+### Open in Desktop Browser:
 Navigate to `https://rwa-tycoon.vercel.app/`.
 
 ## 📜 Smart Contracts
